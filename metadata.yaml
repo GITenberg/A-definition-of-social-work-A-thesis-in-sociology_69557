@@ -1,11 +1,16 @@
 _repo: A-definition-of-social-work-A-thesis-in-sociology_69557
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69557-h/images/cover.jpg
 creator:
   author:
     agent_name: Cheyney, Alice S.
     gutenberg_agent_id: '55315'
     url: http://www.gutenberg.org/2009/agents/55315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69557#A-definition-of-social-work-A-thesis-in-sociology
 gutenberg_issued: '2022-12-16'
 identifiers:
   gutenberg: '69557'
